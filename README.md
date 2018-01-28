@@ -18,6 +18,8 @@ Our documentation can be found from here
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [B4X](http://www.b4x.com/) - B4X is a suite of rapid application development IDEs that allows the creation of applications the following platforms: Google Android, Apple iOS, Java, Raspberry Pi and Arduino. B4X uses a Proprietary dialect of Visual Basic.
+
+* [Slim](https://www.slimframework.com/) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
+
+* [Firebase](https://firebase.google.com/) - Firebase is a mobile and web application development platform.
