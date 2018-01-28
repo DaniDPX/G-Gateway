@@ -23,7 +23,7 @@ Our documentation can be found from here
 or simply use like this
 
 <p align="center">
-  <img width="1113" height="594" src="http://gateway.danidpx.com/images/postman.png">
+  <img width="1113" height="480" src="http://gateway.danidpx.com/images/postman.png">
 </p>
 
 ## Built With
