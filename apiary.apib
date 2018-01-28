@@ -1,0 +1,32 @@
+FORMAT: 1A
+HOST: http://api.gateway.danidpx.com/
+
+# G-Gateway
+
+Polls is a simple API allowing consumers to view polls and vote in them.
+
+## Follow the steps below [/sendsms/]
+
+###Before you begin using G-Gateway, you must download a customized app and activate it by just opening it.
+http://gateway.danidpx.com/download/
+
+
+### Send SMS [POST] 
+
+After you copied the gateway_api key, you can post the following three parameters and send a text message that is not more than 400 characters long.
+
++ Request
+
+Request with a Form Data 
+
+gateway_key:    <automatically_generated_Gateway_api_key>
+to:             <phone_number>
+sms:            <any_message_that_you_want_to_send_it_as_a_sms>
+
++ Response 201
+
+    + Body
+
+        {
+        "response": "Message is sent to Firebase Device"
+        }
