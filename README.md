@@ -1,7 +1,7 @@
 # G-Gateway
 
 <p align="center">
-  <img width="460" height="300" src="http://gateway.danidpx.com/images/favicon.png">
+  <img width="300" height="300" src="http://gateway.danidpx.com/images/favicon.png">
 </p>
 
 ## Getting Started
@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to prepare before using G-Gateway
 
 ```
-Give examples
+http://gateway.danidpx.com/download/
 ```
 ## RESTful API Documentation
 
