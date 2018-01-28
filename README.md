@@ -14,4 +14,10 @@ Give examples
 ## RESTful API Documentation
 
 Our documentation can be found from here
-https://ggateway.docs.apiary.io/
+[G-Gateway Official Documentation](https://ggateway.docs.apiary.io/)
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
