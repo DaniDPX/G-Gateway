@@ -13,7 +13,11 @@ Please follow the instructions below.
 What things you need to prepare before using G-Gateway
 
 ```
-http://gateway.danidpx.com/download/
+http://gateway.danidpx.com/
+
+or Get it on Google App Store
+
+https://play.google.com/store/apps/details?id=com.danidpx.ggateway
 ```
 ## RESTful API Documentation
 
