@@ -1,7 +1,7 @@
 # G-Gateway
 
 <p align="center">
-  <img width="300" height="300" src="https://www.b4x.com/android/forum/attachments/facebookicon-png.64140/">
+  <img width="690" height="537" src="https://www.b4x.com/android/forum/attachments/facebookicon-png.64140/">
 </p>
 
 ## Getting Started
